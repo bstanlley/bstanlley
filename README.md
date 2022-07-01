@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Bruno Stanlley 👏
 <div align="center">
   <a href="https://github.com/bstanlley">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bstanlley&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstanlley&layout=compact&langs_count=7&theme=tokyonight&hide=shell,makefile,swig"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bstanlley&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstanlley&layout=compact&langs_count=7&theme=tokyonight&hide=shell,makefile,swig"/>
 </div>
 
 <div style="display: inline_block"><br>
