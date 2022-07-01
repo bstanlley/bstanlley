@@ -1,4 +1,5 @@
-## Olá! Eu sou o Bruno Stanlley 👏
+## Olá! Eu sou o Bruno Stanlley <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" style="width: 30px; display: block; opacity: 1;">
+
 <div align="center">
   <a href="https://github.com/bstanlley">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bstanlley&show_icons=true&theme=tokyonight&include_all_commits=true"/>
