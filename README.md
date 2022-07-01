@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Bruno Stanlley 👏
 <div align="center">
   <a href="https://github.com/bstanlley">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bstanlley&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstanlley&layout=compact&langs_count=7&theme=tokyonight&hide=shell,makefile,swig"/>
+  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=bstanlley&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstanlley&layout=compact&langs_count=7&theme=tokyonight&hide=shell,makefile,swig"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,6 +22,6 @@
 <a href = "mailto:bruno.stanlleyj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bruno-stanlley-20a965181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-
+![Snake animation](https://github.com/bstanlley/bstanlley/blob/output/github-contribution-grid-snake.svg)
 
 </div>
